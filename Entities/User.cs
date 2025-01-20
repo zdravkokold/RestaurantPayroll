@@ -1,9 +1,8 @@
-﻿using Microsoft.AspNet.Identity.EntityFramework;
+﻿using Microsoft.AspNetCore.Identity;
 
 namespace RestaurantPayroll.Entities
 {
     public class User : IdentityUser
     {
-
     }
 }
